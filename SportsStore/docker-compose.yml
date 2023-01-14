@@ -13,4 +13,4 @@ services:
     environment:
       - POSTGRES_PASSWORD=3141592
     ports:
-    - "5451:5432"
+    - "5432:5432"
